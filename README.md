@@ -2,6 +2,8 @@
 
 React app to search pictures
 
+To see the outcome please visit: https://pics-v1.vercel.app/
+
 ## Clone the project using Git
 
 > git clone https://github.com/teurajarvi/pics-v1.git
